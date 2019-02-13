@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bde6f8a5-b5b5-4ff8-98e2-bd09d5070c23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaPrograms/HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPrograms/HelloWorld/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11416331_10153264978910935_2370335380787350973_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/First/Styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/First/img/Quotefancy-4878-3840x2160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/First/img/pool.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/First/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/JS/jquery-3.1.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/JS/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/week-in-review/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/CSS/week-in-review/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/Screen Shot 2017-02-06 at 3.45.43 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/Screen Shot 2017-02-06 at 3.48.28 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Epicodus/Screen Shot 2017-02-08 at 7.54.45 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ping-pong" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2017-03-31 at 4.23.44 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2017-04-11 at 5.57.07 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2017-04-11 at 6.56.52 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/.angular-cli.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/e2e/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/e2e/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/sample-players.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/about/about.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/about/about.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/about/about.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/about/about.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/admin/admin.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/admin/admin.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/admin/admin.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/admin/admin.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/api-keys.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/app.routing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/player-detail/player-detail.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/player-detail/player-detail.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/player-detail/player-detail.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/player-detail/player-detail.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/player.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/player.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/player.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/role-pipe.pipe.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/app/role-pipe.pipe.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/assets/images/clan.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clash-tracker/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pizza-project" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>``</find>
+      <find>none</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="490" />
+    <option name="y" value="23" />
+    <option name="width" value="950" />
+    <option name="height" value="787" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550010391444" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bde6f8a5-b5b5-4ff8-98e2-bd09d5070c23" name="Default Changelist" comment="" />
+      <created>1549081484940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549081484940</updated>
+      <workItem from="1549081486269" duration="20420000" />
+      <workItem from="1549859141713" duration="1130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21550000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="490" y="23" width="950" height="787" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22577092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24937862" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
